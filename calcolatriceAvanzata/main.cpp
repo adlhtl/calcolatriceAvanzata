@@ -5,6 +5,6 @@
     Funzione principale
 */
 int main() {
-    // Inserisco qua...
+    // Inserisco qua il codice...
     return 0;
 }
