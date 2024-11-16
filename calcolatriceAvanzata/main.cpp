@@ -5,6 +5,6 @@
     Funzione principale
 */
 int main() {
-    cout << "Funzione principale 'Main'" << endl;
+    cout << "Funzione principale" << endl;
     return 0;
 }
