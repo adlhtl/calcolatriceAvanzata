@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-/* Funzione principale */ 
+/* Funzione principale */
 int main() {
     return 0;
 }
