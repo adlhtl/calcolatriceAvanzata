@@ -2,7 +2,7 @@
 
 ### Calcolatrice su interi con diverse modalità.
 
-Modalità "Unaria base":
+Modalità "Espressione unaria base":
 - Radice quadrata.
 - Quadrato: quadrato di un numero (a^2).
 - Cubo: cubo di un numero (a^3).
@@ -14,7 +14,7 @@ Modalità "Unaria base":
 - Doppio: raddoppio di un numero (ax2).
 - Valore assoluto: prendo il numero senza il segno.
 
-Modalità "Unaria avanzata":
+Modalità "Espressione unaria avanzata":
 - Pari: controllo se un numero è pari o dispari.
 - Positività: controllo se un numero è maggiore di 0.
 - Uguale a 0: controllo se un numero è uguale a 0.
